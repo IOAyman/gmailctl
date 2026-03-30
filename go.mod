@@ -3,7 +3,7 @@ module github.com/mbrt/gmailctl
 go 1.25.0
 
 require (
-	github.com/google/go-jsonnet v0.18.0
+	github.com/google/go-jsonnet v0.22.0
 	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/pmezard/go-difflib v1.0.0
@@ -42,6 +42,5 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260311181403-84a4fc48630c // indirect
 	google.golang.org/grpc v1.79.2 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
-	sigs.k8s.io/yaml v1.1.0 // indirect
+	sigs.k8s.io/yaml v1.4.0 // indirect
 )
