@@ -1,6 +1,6 @@
 module github.com/mbrt/gmailctl
 
-go 1.25.8
+go 1.26.0
 
 require (
 	github.com/google/go-jsonnet v0.18.0
@@ -10,7 +10,7 @@ require (
 	github.com/spf13/cobra v1.5.0
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/oauth2 v0.36.0
-	google.golang.org/api v0.294.0
+	google.golang.org/api v0.297.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
